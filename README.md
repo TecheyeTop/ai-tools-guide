@@ -12,7 +12,7 @@ We simplify complex technology. From ChatGPT prompts to Python scripts, we provi
 ### 📚 Featured Guides
 Here are some of our most popular resources:
 * [How to Add a New Line in ChatGPT (Shift+Enter Trick)](https://www.techeye.top/2026/01/how-to-add-new-line-chatgpt.html)
-* [AI Tools Reviews]([https://www.techeye.top](https://www.techeye.top/search/label/Reviews))
+* [AI Tools Reviews]([https://www.techeye.top](https://www.techeye.top/search/label/Reviews)
 
 ---
 *Stay ahead of the curve.*
